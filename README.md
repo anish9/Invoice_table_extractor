@@ -18,3 +18,9 @@ EXTRACT TABLES USING OPENCV  IN INVOICES
 python3 main.py image.jpg
 
 ```
+>  Output images will be found on OUT_DIR folder
+
+
+ ## Todo
+- [] Improve removal of redudant files (may be a neural netwrok)
+
