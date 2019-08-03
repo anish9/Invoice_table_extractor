@@ -11,3 +11,9 @@ EXTRACT TABLES USING OPENCV  IN INVOICES
 
 ### Output
 <img src=https://github.com/anish9/INVOICE_TABLE-OPENCV/blob/master/OUT_DIR/0c.jpg alt="Smiley Sface" height="200" width="400">
+
+## To Run from CLI
+```
+python3 main.py image.jpg
+
+```
