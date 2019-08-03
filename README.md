@@ -22,5 +22,5 @@ python3 main.py image.jpg
 
 
  ## Todo
-- [ ] Improve removal of redudant files (may be a neural netwrok)
+- [ ] Improve removal of redundant files (may be a neural netwrok)
 
