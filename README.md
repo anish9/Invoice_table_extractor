@@ -3,6 +3,7 @@ EXTRACT TABLES USING OPENCV  IN INVOICES
 
 
 ### Requirements 
+ - python3.6
  - OpenCV 3.4
 
 ### Some Results
